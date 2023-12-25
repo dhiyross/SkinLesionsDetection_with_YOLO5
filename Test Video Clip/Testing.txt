@@ -1,0 +1,5 @@
+Testing 1: In the test video, the results of the detected images from the image files ISIC_0000000 (Melanocytic Nevus with a score of 0.73) and ISIC_0000002 (Melanoma with a score of 0.63) are shown, which when compared to the ground truth provided by ISIC 2019 are the same.
+
+Testing 2: In this test, I used an external webcam from my laptop, by using a cellphone camera, in the test video, the results of images that have been detected from the image files ISIC_0024431 (Bacal Cell Carcinoma with a score of 0.49), ISIC_0013867_downsampled (Melanoma with a score of 0.53), and ISIC_0012772_downsampled (Benign Keratosis with a score of 0.62), which when compared to the ground truth provided by ISIC 2019 are the same.
+
+The ground truth file is attached to the "data" folder.

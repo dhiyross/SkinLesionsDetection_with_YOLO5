@@ -1,0 +1,1 @@
+file hyp.VOC.yaml adalah hyperparameter untuk proses fine-tuning
